@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to my shitpost
 
-You can use the [editor on GitHub](https://github.com/xoiga123/xoiga123.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Testing out, dont mind me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```python
+print("idk what im doing rn")
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Reasons im doing this:
+- idk
+- dont ask
 
-### Jekyll Themes
+Reasons im doing this but ordered:
+1. dude i said don't ask
+2. please
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xoiga123/xoiga123.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Bold** and _Italic_ and `Code` text
+**Do not** _ask_ `me`
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[GitHub theme help site](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser)
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+![Aqua-sama](https://i.pinimg.com/236x/8b/d2/d7/8bd2d7efc1b0f782b725491799074d39.jpg)
